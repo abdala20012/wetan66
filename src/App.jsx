@@ -2,7 +2,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import "./App.css";
 
 const DISPLAY_NAME = "وتين";
-const SITE_PASSWORD = "1234";
+const SITE_PASSWORD = "5/5/2001";
 const ACQUAINTANCE_DATE = "2024-01-11T00:00:00";
 const SPECIAL_DATE = "2026-05-05T00:00:00";
 const MUSIC_SRC = "/love.mp3";
